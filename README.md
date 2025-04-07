@@ -33,7 +33,3 @@ Para informações detalhadas sobre instalação, uso e API, consulte a [documen
 
 - GitHub: [AngeloGagno](https://github.com/AngeloGagno)
 - LinkedIn: [angelogagno](https://www.linkedin.com/in/angelogagno)
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para detalhes.
