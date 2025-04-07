@@ -9,8 +9,8 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/angelogagno/crewai-generator.git
-   cd crewai-generator
+   git clone https://github.com/angelogagno/CrewAI_Constructor.git
+   cd CrewAI_Constructor
    ```
 
 2. Crie e ative um ambiente virtual:

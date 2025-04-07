@@ -27,7 +27,7 @@ streamlit run main.py
 
 ## Documentação
 
-Para informações detalhadas sobre instalação, uso e API, consulte a [documentação completa](https://angelogagno.github.io/crewai-generator/).
+Para informações detalhadas sobre instalação, uso e API, consulte a [documentação completa](https://angelogagno.github.io/CrewAI_Constructor/).
 
 ## Contato
 
