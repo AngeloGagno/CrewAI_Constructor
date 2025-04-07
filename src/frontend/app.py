@@ -96,7 +96,7 @@ class Webapp:
                 - Elabore uma estratégia de marketing para um produto de beleza natural.
                 """)
             st.header("Documentação")
-            st.markdown("[Docs](https://google.com)")
+            st.markdown("[Docs](https://AngeloGagno.github.io/CrewAI_Constructor/)")
             st.header("Contato")
             st.markdown("[GitHub](https://github.com/AngeloGagno)")
             st.markdown("[Linkedin](https://www.linkedin.com/in/angelogagno)")
