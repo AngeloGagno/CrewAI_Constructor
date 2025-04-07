@@ -10,8 +10,8 @@ O CrewAI Generator permite criar rapidamente a estrutura de um projeto CrewAI a 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/angelogagno/crewai-generator.git
-cd crewai-generator
+git clone https://github.com/angelogagno/CrewAI_Constructor.git
+cd CrewAI_Constructor
 
 # Instale as dependências
 pip install -r requirements.txt
