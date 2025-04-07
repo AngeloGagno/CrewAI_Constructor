@@ -31,5 +31,5 @@ Para informações detalhadas sobre instalação, uso e API, consulte a [documen
 
 ## Contato
 
-- GitHub: [AngeloGagno](https://github.com/AngeloGagno)
-- LinkedIn: [angelogagno](https://www.linkedin.com/in/angelogagno)
+- GitHub: [Angelo Gagno](https://github.com/AngeloGagno)
+- LinkedIn: [Angelo Gagno](https://www.linkedin.com/in/angelogagno)

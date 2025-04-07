@@ -2,10 +2,10 @@
 
 ### Iniciando a Aplicação
 
-Execute o seguinte comando na raiz do projeto:
+Execute o seguinte comando na raiz do projeto ou na aplicação docker desktop:
 
 ```bash
-streamlit run main.py
+docker compose up
 ```
 
 A aplicação será iniciada e estará acessível em `http://localhost:8501`.
@@ -23,7 +23,7 @@ A aplicação será iniciada e estará acessível em `http://localhost:8501`.
 ## Estrutura do Projeto
 
 ```
-crewai-generator/
+CrewAI_Constructor/
 ├── main.py              # Ponto de entrada da aplicação
 ├── frontend/
 │   └── app.py           # Interface de usuário Streamlit
