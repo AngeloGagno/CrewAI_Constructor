@@ -1,8 +1,8 @@
-from dotenv import load_dotenv
+from dotenv import load_dotenv,find_dotenv
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 
-_ = load_dotenv()
+_ = load_dotenv(find_dotenv())
 @CrewBase
 class CreateCrewProject():
 	"""CreateCrewProject crew"""
